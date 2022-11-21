@@ -556,7 +556,18 @@ smartphone*/
         height: 67.79px;
     }
 }
-/*
-8K Ultra HD ...(*￣０￣)ノ
-@media only screen and (min-width: 3841px) {}
-*/
+#c{
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -5;
+}
+
+.second{
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  top:100vh;
+}
